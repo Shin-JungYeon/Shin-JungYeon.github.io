@@ -21,13 +21,10 @@ url: 'https://shin-jungyeon.github.io/'
 
 author: shin-jungyeon                   # change to your full name
 
-avatar: /assets/img/sample/avatar.jpg   # support internet resources
+avatar: /assets/img/sample/jaeng.jpg    # support internet resources
 
 github:
   username: shin-jungyeon               # change to your github username
-
-twitter:
-  username: twitter_username            # change to your twitter username
 
 social:
   name: shin-jungyeon                   # it will shows as the copyright owner in Footer
